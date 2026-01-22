@@ -74,17 +74,12 @@ Node.js, Express.js, Laravel, MySQL, Redis, RabbitMQ, Docker
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjardev&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Contact
 
 - GitHub: https://github.com/anjardev
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourusername
+- Email: anjardev.sanjaya@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anjar-sanjaya-9aa4a21a7
 
 ---
 
