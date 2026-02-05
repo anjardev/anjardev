@@ -79,7 +79,7 @@ Node.js, Express.js, Laravel, MySQL, Redis, RabbitMQ, Docker
 
 - GitHub: https://github.com/anjardev
 - Email: anjardev.sanjaya@gmail.com
-- LinkedIn: https://www.linkedin.com/in/anjar-sanjaya-9aa4a21a7
+- LinkedIn: https://www.linkedin.com/in/anjar-sanjaya
 
 ---
 
